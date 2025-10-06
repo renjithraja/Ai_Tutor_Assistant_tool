@@ -1,0 +1,30 @@
+# Ignore environment files
+*.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders (include your backend/myenv specifically)
+venv/
+mvenv/
+.myenv/
+env/
+backend/myenv/
+
+# Ignore Django database files
+*.sqlite3
+
+# Ignore audio output
+output.wav
+
+# Ignore IDE, editor, and OS-specific files
+.vscode/
+.DS_Store
+*.log
+
+# Ignore frontend build artifacts (React)
+frontend/node_modules/
+frontend/build/
