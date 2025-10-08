@@ -16,7 +16,7 @@ This project includes both a backend (FastAPI) and a frontend, enabling seamless
 
 🌐 Full Stack Setup – Includes both backend (FastAPI) and frontend (React/Vite).
 
-🧩 Project Structure
+Project Structure
 ai-tutor/
 │
 ├── backend/
@@ -34,9 +34,10 @@ ai-tutor/
     ├── package.json
     └── vite.config.js
 
+
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-tutor.git
+git clone https://github.com/renjithraja/Ai_Tutor_Assistant_tool
 cd ai-tutor
 
 2️⃣ Setup the Backend
@@ -64,7 +65,7 @@ pip install -r requirements.txt
 Inside the backend folder, create a file named .env with the following content:
 
 # LLM provider settings (use one or both)
-GROQ_API_KEY="your_groq_key"
+GROQ_API_KEY="Replace_your_groq_key"
 GROQ_MODEL=llama-3.1-8b-instant
 RAG_TEMPERATURE=0.2
 RAG_MAX_TOKENS=512
@@ -139,5 +140,4 @@ GROQ API Key
 🎓 MCA Graduate | AI/ML Enthusiast | Django & Python Developer
 📧 renjithraja496@gmail.com
 
-🔗 LinkedIn
- | GitHub
+[Visit My LinkedIn](https://www.linkedin.com/in/renjith-r)
