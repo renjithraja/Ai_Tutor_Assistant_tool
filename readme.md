@@ -16,24 +16,6 @@ This project includes both a backend (FastAPI) and a frontend, enabling seamless
 
 🌐 Full Stack Setup – Includes both backend (FastAPI) and frontend (React/Vite).
 
-Project Structure
-ai-tutor/
-│
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── routes/
-│   │   ├── services/
-│   │   └── utils/
-│   ├── requirements.txt
-│   └── .env
-│
-└── frontend/
-    ├── src/
-    ├── public/
-    ├── package.json
-    └── vite.config.js
-
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
